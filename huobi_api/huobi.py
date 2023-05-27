@@ -74,7 +74,7 @@ pd.set_option('display.max_rows', 1000)
 # df = pd.DataFrame(data_list)
 # print(df)
 
-
+# /Users/wanglin/anaconda3/lib/python3.7/site-packages/ccxt/base/exchange.py",
 
 # 获取ticker
 symbol = 'ethusdt'

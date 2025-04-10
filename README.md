@@ -1,12 +1,3 @@
-# Full-Stack Developer
-
-## (Mobile Development · iOS Native · Flutter · React.js · Python · PHP · TypeScript · Node.js)
-
-Experienced software engineer with over five years in the industry, specializing in full-stack development across mobile and web platforms. Key strengths include:
-	•	Frontend Development: Deep expertise in React.js, building responsive, user-friendly, and high-performance interfaces.
-	•	Backend Development: Proficient in Python and Node.js, designing scalable and secure server-side applications.
-	•	Mobile Development: Skilled in iOS Native (Objective-C/Swift) and Flutter, delivering cross-platform and native mobile experiences.
-	•	Full-Stack Integration: Adept at integrating front-end and back-end technologies to create seamless, end-to-end digital solutions.
 # python数字货币量化交易视频代码
 youtube视频链接: [https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos](https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos)
 

@@ -3,3 +3,58 @@ ccxt-master
 */__pycache__
 */*/__pycache__
 .DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+
+# Claude
+.claude/*
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.env/
+*.virtualenv
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+*.spec
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Package manager
+# DO NOT ignore poetry.lock or uv.lock
+*.pid
+*.seed
+*.pid.lock
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
